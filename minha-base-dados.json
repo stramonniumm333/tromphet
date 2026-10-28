@@ -1,0 +1,67 @@
+[
+{
+"pergunta": "Qual é o horário de funcionamento?",
+"keywords": ["horario", "funcionamento", "aberto", "fecha", "que horas", "domingo", "segunda"],
+"resposta": "Nosso horário de funcionamento é:\n• Terça a Sexta: 13h00 às 22h00\n• Sábados e Domingos: 12h00 às 22h30\n• Feriados: 13h00 às 22h00\nÀs segundas-feiras estamos fechados para descanso da equipe."
+},
+{
+"pergunta": "Onde fica a loja e qual é o endereço?",
+"keywords": ["endereco", "localizacao", "onde fica", "bairro", "rua", "como chegar"],
+"resposta": "Estamos localizados na Rua das Flores, 420 - Centro (Bairro Verde), São Paulo - SP. Contamos com estacionamento fácil e gratuito na porta!"
+},
+{
+"pergunta": "Quais são as formas de pagamento aceitas?",
+"keywords": ["pagamento", "cartao", "pix", "vr", "vale refeicao", "sodexo", "alelo", "dinheiro"],
+"resposta": "Aceitamos Pix, cartões de crédito e débito, além dos vales-refeição VR, Sodexo e Alelo."
+},
+{
+"pergunta": "Vocês fazem delivery / entrega?",
+"keywords": ["delivery", "entrega", "pedir em casa", "raio", "distancia", "tele entrega"],
+"resposta": "Sim! Entregamos açaí e sorvetes fresquinhos num raio de até 8km. Faça seu pedido pelo nosso WhatsApp: (11) 98765-4321."
+},
+{
+"pergunta": "Como faço um pedido pelo WhatsApp?",
+"keywords": ["whatsapp", "pedido", "pedir", "contato", "mensagem", "telefone"],
+"resposta": "Para fazer seu pedido direto, basta chamar no WhatsApp (11) 98765-4321 ou acesse diretamente pelo link: Fazer Pedido no WhatsApp."
+},
+{
+"pergunta": "Quais são os tamanhos e opções do Açaí Tradicional?",
+"keywords": ["acai", "tradicional", "tigela", "tamanhos", "preco", "300ml", "500ml", "700ml"],
+"resposta": "A nossa Tigela Tradicional vem com açaí puro batido na hora, banana fresca, granola crocante e leite condensado. Disponível nos tamanhos 300ml, 500ml e 700ml a partir de R$ 21,90."
+},
+{
+"pergunta": "Vocês têm opção de Açaí Zero ou Fit?",
+"keywords": ["zero", "fit", "saudavel", "sem acucar", "stevia", "dieta", "funcional", "chia"],
+"resposta": "Temos sim! O Açaí Zero & Fit Funcional (R$ 24,50) é batido puro com água de coco, chia, castanhas, mirtilos e morangos. Sem açúcares refinados ou xaropes, podendo ser adoçado com Stevia ou consumido 100% puro."
+},
+{
+"pergunta": "Quais são as opções de Sorvetes de Massa e Picolés?",
+"keywords": ["sorvete", "massa", "picole", "sabores", "casquinha", "copinho", "pote"],
+"resposta": "Oferecemos mais de 24 sabores artesanais de sorvete de massa (a partir de R$ 14,00 em casquinha, copinho ou pote) e picolés 100% naturais à base de leite ou água de coco com pedaços reais de frutas."
+},
+{
+"pergunta": "Como funcionam as Barcas e Taças Gourmet?",
+"keywords": ["barca", "taca", "gourmet", "compartilhar", "familia", "grupo", "quantidade"],
+"resposta": "Nossas Barcas & Taças Gourmet (a partir de R$ 38,00) são ideais para 2 a 5 pessoas, incluindo até 6 complementos livres, frutas picadas, brigadeiro artesanal de colher e calda morna."
+},
+{
+"pergunta": "Posso levar meu pet / cachorro?",
+"keywords": ["pet", "cachorro", "animais", "pet friendly", "gato"],
+"resposta": "Sim! Nosso espaço conta com área externa 100% Pet Friendly. Seu pet é super bem-vindo!"
+},
+{
+"pergunta": "Como faço uma reserva de mesa ou comemoração de aniversário?",
+"keywords": ["reserva", "reservar", "mesa", "aniversario", "comemoracao", "festa", "grupo"],
+"resposta": "Você pode reservar mesas para sua família ou comemorações diretamente pelo nosso WhatsApp (11) 98765-4321 informando seu nome, data, horário e número de pessoas."
+},
+{
+"pergunta": "Como funciona a retirada rápida sem fila?",
+"keywords": ["retirada", "sem fila", "antecipar", "retirar", "takeaway"],
+"resposta": "Você pode antecipar seu pedido pelo WhatsApp (11) 98765-4321 informando o horário que passará na loja. Nós deixamos tudo pronto para você retirar sem esperar na fila!"
+},
+{
+"pergunta": "Qual é a origem do açaí de vocês?",
+"keywords": ["origem", "puro", "xarope", "qualidade", "historia", "amazonia", "artesanal"],
+"resposta": "Desde 2016, trabalhamos com polpa nobre 100% pura da Amazônia, sem misturas industriais ou xaropes artificiais, batida diariamente para garantir máxima cremosidade."
+}
+]
